@@ -12,7 +12,7 @@ body {
 .title, .tagline {
     font-family: monospace;
     text-align: center;
-    color: dimgrey
+    color: dimgrey;
 }
 
 .title {
