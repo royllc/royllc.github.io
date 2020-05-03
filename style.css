@@ -16,10 +16,10 @@ body {
 }
 
 .title {
-    font-size: xx-large;
+    font-size: 6rem;
     font-weight: bold;
 }
 
 .tagline {
-    font-size: medium;
+    font-size: 3rem;
 }
